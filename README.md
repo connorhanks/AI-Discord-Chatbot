@@ -10,3 +10,11 @@ Clone the repo, install the required packages, populate the tokens.txt file with
 ### About The Project
 
 This project was a really fun way for me to become familiar with the NeuralIntents package, whilst also learning more about web sockets/requests.
+
+### What I Learnt From This Project
+
+- Training AI models
+- Machine learning
+- Python Requests
+- JSON
+- Websockets
