@@ -1,5 +1,5 @@
 ## AI-Discord-Chatbot
-A chatbot for Discord which implements artificial intelligence and machine learning to create interesting conversations.
+A chatbot for Discord which implements artificial intelligence to create interesting conversations.
 
 Please note: A Discord update has affected the way tokens are handled, therefore the bot is now outdated. I am no longer working on this project, but feel free to create a pull request!
 
@@ -14,7 +14,6 @@ This project was a really fun way for me to become familiar with the NeuralInten
 ### What I Learnt From This Project
 
 - Training AI models
-- Machine learning
 - Python Requests
 - JSON
 - Websockets
