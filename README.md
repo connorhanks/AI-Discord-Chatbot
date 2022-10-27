@@ -5,7 +5,7 @@ Please note: A Discord update has affected the way tokens are handled, therefore
 
 ### How To Run
 
-Clone the repo, install the required packages, populate the tokens.txt with your Discord token(s) and optionally re-write the intents file so the AI model will be trained to your liking.
+Clone the repo, install the required packages, populate the tokens.txt file with your Discord token(s) and optionally re-write the intents file so the AI model will be trained to your liking.
 
 ### About The Project
 
